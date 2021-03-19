@@ -1,6 +1,7 @@
 # PythonNotebookTutorial
 
-### Credit
+## Credit
+
 This python notebook tutorial is from the ENPH 259 class and was created with that class in mind. Permission was granted from Professor David Jones
 
 ## Content
